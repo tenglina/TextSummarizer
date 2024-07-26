@@ -1,0 +1,16 @@
+{
+    "name": "SummaryText",
+    "version": "1.0.0",
+    "description": "summarizes text on page",
+    "manifest_version": 3,
+    "author": "Nandini Tengli",
+    "permissions": ["activeTab", "scripting"], 
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "SummaryText"
+    }
+
+
+
+
+}
